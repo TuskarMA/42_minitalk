@@ -1,3 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ddivaev <ddivaev@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/09/06 20:24:52 by ddivaev           #+#    #+#              #
+#    Updated: 2025/09/06 20:24:52 by ddivaev          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 SERVER_SRCS	= src/server.c src/utils.c
 CLIENT_SRCS	= src/client.c src/utils.c
 HEADERS		= include/minitalk.h
